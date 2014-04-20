@@ -5,6 +5,7 @@ gem 'devise'
 gem 'mongoid'#, :git => 'git://github.com/mongoid/mongoid.git'
 gem 'mongoid_spacial'
 gem 'haml'
+gem "haml-rails"
 gem 'bson_ext'
 gem 'mongo_ext'
 gem 'rails-backbone'
